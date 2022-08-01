@@ -11,4 +11,4 @@ Welcome to my website profile repo! In this end of module 1 assignment I utilize
 
 Hey, check out my blockie!
 
-<img src= "https://github.com/DaniloCanuto/Profile-Website/blob/main/images/Blockie.png" width='200'/>
+<img src= "https://github.com/DaniloCanuto/Profile-Website/blob/main/images/danilo_canuto_blockie.png" width='200'/>
